@@ -37,7 +37,10 @@ public class CocheBuilder {
         
        this.tapicería=builder.tapiceria;
        this.caballos=builder.caballos;
+       this.color=builder.color;
     }
+    
+    public static class 
  
     
 }

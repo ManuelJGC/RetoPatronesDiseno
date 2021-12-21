@@ -1,6 +1,8 @@
 package com.nttdata.protype;
 
-public class CochePrototype{
-        
+public class CochePrototype implements Cloneable{
+    
+    private List<String> listaCoches;
+    
     
 }
